@@ -16,7 +16,7 @@ Then I got an idea: I'm going to write my master's thesis in Python! And so it a
 ### Free time :stopwatch:
 
 - Losing oneself in Python :snake:
+- Fishing :fishing_pole_and_fish:
 - Swimming :swimming_man:
 - Mountain biking :mountain_biking_man:
 - Hiking :hiking_boot:
-- Fishing :fishing_pole_and_fish:
