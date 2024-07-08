@@ -1,16 +1,22 @@
-## Hi there 👋
+Then I got an idea: I'm going to write my master's thesis in Python! And so it all began... :rocket:
 
-<!--
-**opalapj/opalapj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Profession :briefcase:
 
-Here are some ideas to get you started:
+- Electricity Market Analyst (prospective Python Developer)
+- Working on both nodal (US markets) and zonal (Polish market) models
+- Processing of large amount of data
+- Drawing conclusions where it seems impossible
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education :mortar_board:
+
+- Studing Electrical Engineering at Warsaw University of Technology
+- Studing Finance and Accounting at Warsaw School of Economics
+- Learning Python by creating projects, reading documentation, completing courses
+
+### Free time :stopwatch:
+
+- Losing oneself in Python :snake:
+- Swimming :swimming_man:
+- Mountain biking :mountain_biking_man:
+- Hiking :hiking_boot:
+- Fishing :fishing_pole_and_fish:
