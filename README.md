@@ -1,4 +1,7 @@
-Then I got an idea: I'm going to write my master's thesis in Python! And so it all began... :rocket:
+Then I got an idea:
+> I'm going to write my master's thesis in Python!
+
+And so it all began... :rocket:
 
 ### Profession :briefcase:
 
